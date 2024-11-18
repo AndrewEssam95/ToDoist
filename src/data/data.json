@@ -1,0 +1,248 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "icon": "🏠",
+      "title": "Home",
+      "tagBackground": "#fe15c9"
+    },
+    {
+      "id": 2,
+      "icon": "🏐",
+      "title": "Sports",
+      "tagBackground": "#fe15c9"
+    },
+    {
+      "id": 3,
+      "icon": "🤩",
+      "title": "Wishlist",
+      "tagBackground": "#fe15c9"
+    },
+    {
+      "id": 4,
+      "icon": "🛍️",
+      "title": "Shopping",
+      "tagBackground": "#fe15c9"
+    },
+    {
+      "id": 5,
+      "icon": "⚕️",
+      "title": "Health",
+      "tagBackground": "#fe15c9"
+    },
+    {
+      "id": 6,
+      "icon": "🧔",
+      "title": "Personal",
+      "tagBackground": "#fe15c9"
+    },
+    {
+      "id": 7,
+      "icon": "🏢",
+      "title": "Work",
+      "tagBackground": "#fe15c9"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Clean the living room",
+      "categoryId": "1",
+      "isCompleted": false
+    },
+    {
+      "title": "Organize kitchen pantry",
+      "categoryId": "1",
+      "isCompleted": true
+    },
+    {
+      "title": "Water the plants",
+      "categoryId": "1",
+      "isCompleted": false
+    },
+    {
+      "title": "Grocery shopping",
+      "categoryId": "1",
+      "isCompleted": true
+    },
+    {
+      "title": "Fix leaky faucet",
+      "categoryId": "1",
+      "isCompleted": false
+    },
+    {
+      "title": "Vacuum the house",
+      "categoryId": "1",
+      "isCompleted": true
+    },
+    {
+      "title": "Wash dishes",
+      "categoryId": "1",
+      "isCompleted": false
+    },
+    {
+      "title": "Practice soccer drills",
+      "categoryId": "2",
+      "isCompleted": true
+    },
+    {
+      "title": "Go for a run",
+      "categoryId": "2",
+      "isCompleted": false
+    },
+    {
+      "title": "Swimming session",
+      "categoryId": "2",
+      "isCompleted": true
+    },
+    {
+      "title": "Play tennis",
+      "categoryId": "2",
+      "isCompleted": false
+    },
+    {
+      "title": "Basketball practice",
+      "categoryId": "2",
+      "isCompleted": true
+    },
+    {
+      "title": "Gym workout",
+      "categoryId": "2",
+      "isCompleted": false
+    },
+    {
+      "title": "Soccer game with friends",
+      "categoryId": "2",
+      "isCompleted": true
+    },
+    {
+      "title": "Save for a new phone",
+      "categoryId": "3",
+      "isCompleted": false
+    },
+    {
+      "title": "Buy a gaming console",
+      "categoryId": "3",
+      "isCompleted": true
+    },
+    {
+      "title": "Save for a vacation",
+      "categoryId": "3",
+      "isCompleted": false
+    },
+    {
+      "title": "Plan a weekend trip",
+      "categoryId": "3",
+      "isCompleted": true
+    },
+    {
+      "title": "Research new laptop",
+      "categoryId": "3",
+      "isCompleted": false
+    },
+    {
+      "title": "Add items to wishlist",
+      "categoryId": "3",
+      "isCompleted": true
+    },
+    {
+      "title": "Buy new shoes",
+      "categoryId": "4",
+      "isCompleted": false
+    },
+    {
+      "title": "Get groceries",
+      "categoryId": "4",
+      "isCompleted": true
+    },
+    {
+      "title": "Buy clothes for winter",
+      "categoryId": "4",
+      "isCompleted": false
+    },
+    {
+      "title": "Order household supplies",
+      "categoryId": "4",
+      "isCompleted": true
+    },
+    {
+      "title": "Get a birthday gift",
+      "categoryId": "4",
+      "isCompleted": false
+    },
+    {
+      "title": "Restock kitchen items",
+      "categoryId": "4",
+      "isCompleted": true
+    },
+    {
+      "title": "Buy vitamins",
+      "categoryId": "5",
+      "isCompleted": false
+    },
+    {
+      "title": "Schedule a doctor’s appointment",
+      "categoryId": "5",
+      "isCompleted": true
+    },
+    {
+      "title": "Workout session",
+      "categoryId": "5",
+      "isCompleted": false
+    },
+    {
+      "title": "Dental checkup",
+      "categoryId": "5",
+      "isCompleted": true
+    },
+    {
+      "title": "Buy healthy snacks",
+      "categoryId": "5",
+      "isCompleted": false
+    },
+    {
+      "title": "Take vitamins",
+      "categoryId": "5",
+      "isCompleted": true
+    },
+    {
+      "title": "Meditation session",
+      "categoryId": "5",
+      "isCompleted": false
+    },
+    {
+      "title": "Read a book",
+      "categoryId": "6",
+      "isCompleted": true
+    },
+    {
+      "title": "Plan monthly goals",
+      "categoryId": "6",
+      "isCompleted": false
+    },
+    {
+      "title": "Journal daily",
+      "categoryId": "6",
+      "isCompleted": true
+    },
+    {
+      "title": "Organize closet",
+      "categoryId": "6",
+      "isCompleted": false
+    },
+    {
+      "title": "Update resume",
+      "categoryId": "6",
+      "isCompleted": true
+    },
+    {
+      "title": "Meditate",
+      "categoryId": "6",
+      "isCompleted": false
+    },
+    {
+      "title": "Self-reflection exercise",
+      "categoryId": "6",
+      "isCompleted": true
+    }
+  ]
+}
