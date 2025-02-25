@@ -1,43 +1,43 @@
 {
   "categories": [
     {
-      "id": 1,
+      "id": "1",
       "icon": "🏠",
       "title": "Home",
       "tagBackground": "#fe15c9"
     },
     {
-      "id": 2,
+      "id": "2",
       "icon": "🏐",
       "title": "Sports",
       "tagBackground": "#fe15c9"
     },
     {
-      "id": 3,
+      "id": "3",
       "icon": "🤩",
       "title": "Wishlist",
       "tagBackground": "#fe15c9"
     },
     {
-      "id": 4,
+      "id": "4",
       "icon": "🛍️",
       "title": "Shopping",
       "tagBackground": "#fe15c9"
     },
     {
-      "id": 5,
+      "id": "5",
       "icon": "⚕️",
       "title": "Health",
       "tagBackground": "#fe15c9"
     },
     {
-      "id": 6,
+      "id": "6",
       "icon": "🧔",
       "title": "Personal",
       "tagBackground": "#fe15c9"
     },
     {
-      "id": 7,
+      "id": "7",
       "icon": "🏢",
       "title": "Work",
       "tagBackground": "#fe15c9"
@@ -45,201 +45,241 @@
   ],
   "tasks": [
     {
+      "id": "1",
       "title": "Clean the living room",
       "categoryId": "1",
       "isCompleted": false
     },
     {
+      "id": "2",
       "title": "Organize kitchen pantry",
       "categoryId": "1",
       "isCompleted": true
     },
     {
+      "id": "3",
       "title": "Water the plants",
       "categoryId": "1",
       "isCompleted": false
     },
     {
+      "id": "4",
       "title": "Grocery shopping",
       "categoryId": "1",
       "isCompleted": true
     },
     {
+      "id": "5",
       "title": "Fix leaky faucet",
       "categoryId": "1",
       "isCompleted": false
     },
     {
+      "id": "6",
       "title": "Vacuum the house",
       "categoryId": "1",
       "isCompleted": true
     },
     {
+      "id": "7",
       "title": "Wash dishes",
       "categoryId": "1",
       "isCompleted": false
     },
     {
+      "id": "8",
       "title": "Practice soccer drills",
       "categoryId": "2",
       "isCompleted": true
     },
     {
+      "id": "9",
       "title": "Go for a run",
       "categoryId": "2",
       "isCompleted": false
     },
     {
+      "id": "10",
       "title": "Swimming session",
       "categoryId": "2",
       "isCompleted": true
     },
     {
+      "id": "11",
       "title": "Play tennis",
       "categoryId": "2",
       "isCompleted": false
     },
     {
+      "id": "12",
       "title": "Basketball practice",
       "categoryId": "2",
       "isCompleted": true
     },
     {
+      "id": "13",
       "title": "Gym workout",
       "categoryId": "2",
       "isCompleted": false
     },
     {
+      "id": "14",
       "title": "Soccer game with friends",
       "categoryId": "2",
       "isCompleted": true
     },
     {
+      "id": "15",
       "title": "Save for a new phone",
       "categoryId": "3",
       "isCompleted": false
     },
     {
+      "id": "16",
       "title": "Buy a gaming console",
       "categoryId": "3",
       "isCompleted": true
     },
     {
+      "id": "17",
       "title": "Save for a vacation",
       "categoryId": "3",
       "isCompleted": false
     },
     {
+      "id": "18",
       "title": "Plan a weekend trip",
       "categoryId": "3",
       "isCompleted": true
     },
     {
+      "id": "19",
       "title": "Research new laptop",
       "categoryId": "3",
       "isCompleted": false
     },
     {
+      "id": "20",
       "title": "Add items to wishlist",
       "categoryId": "3",
       "isCompleted": true
     },
     {
+      "id": "21",
       "title": "Buy new shoes",
       "categoryId": "4",
       "isCompleted": false
     },
     {
+      "id": "22",
       "title": "Get groceries",
       "categoryId": "4",
       "isCompleted": true
     },
     {
+      "id": "23",
       "title": "Buy clothes for winter",
       "categoryId": "4",
       "isCompleted": false
     },
     {
+      "id": "24",
       "title": "Order household supplies",
       "categoryId": "4",
       "isCompleted": true
     },
     {
+      "id": "25",
       "title": "Get a birthday gift",
       "categoryId": "4",
       "isCompleted": false
     },
     {
+      "id": "26",
       "title": "Restock kitchen items",
       "categoryId": "4",
       "isCompleted": true
     },
     {
+      "id": "27",
       "title": "Buy vitamins",
       "categoryId": "5",
       "isCompleted": false
     },
     {
+      "id": "28",
       "title": "Schedule a doctor’s appointment",
       "categoryId": "5",
       "isCompleted": true
     },
     {
+      "id": "29",
       "title": "Workout session",
       "categoryId": "5",
       "isCompleted": false
     },
     {
+      "id": "30",
       "title": "Dental checkup",
       "categoryId": "5",
       "isCompleted": true
     },
     {
+      "id": "31",
       "title": "Buy healthy snacks",
       "categoryId": "5",
       "isCompleted": false
     },
     {
+      "id": "32",
       "title": "Take vitamins",
       "categoryId": "5",
       "isCompleted": true
     },
     {
+      "id": "33",
       "title": "Meditation session",
       "categoryId": "5",
       "isCompleted": false
     },
     {
+      "id": "34",
       "title": "Read a book",
       "categoryId": "6",
       "isCompleted": true
     },
     {
+      "id": "35",
       "title": "Plan monthly goals",
       "categoryId": "6",
       "isCompleted": false
     },
     {
+      "id": "36",
       "title": "Journal daily",
       "categoryId": "6",
       "isCompleted": true
     },
     {
+      "id": "37",
       "title": "Organize closet",
       "categoryId": "6",
       "isCompleted": false
     },
     {
+      "id": "38",
       "title": "Update resume",
       "categoryId": "6",
       "isCompleted": true
     },
     {
+      "id": "39",
       "title": "Meditate",
       "categoryId": "6",
       "isCompleted": false
     },
     {
+      "id": "40",
       "title": "Self-reflection exercise",
       "categoryId": "6",
       "isCompleted": true

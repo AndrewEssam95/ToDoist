@@ -2,9 +2,14 @@ import { useState } from "react";
 import useFirestore from "./useFirestore";
 
 const AddTaskBar = () => {
-  const { categoriesList, createTask } = useFirestore();
+  const { categoriesList, createTask, todosList } = useFirestore();
+
+  const lastTaskID =
+    todosList.length > 0 ? +todosList[todosList.length - 1].id : -1;
+  const currentTaskID = lastTaskID + 1;
 
   const [taskDetails, setTaskDetails] = useState({
+    id: currentTaskID.toString(),
     title: "",
     categoryId: "",
     isCompleted: false,
@@ -52,6 +57,7 @@ const AddTaskBar = () => {
         onClick={() => {
           createTask(taskDetails);
           setTaskDetails({
+            id: "",
             title: "",
             categoryId: "",
             isCompleted: false,
